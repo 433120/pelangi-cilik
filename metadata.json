@@ -1,0 +1,8 @@
+{
+  "name": "Pelangi Cilik — Media Belajar PAUD",
+  "description": "Aplikasi media belajar interaktif ceria untuk anak usia dini (PAUD/TK 4-6 tahun) dengan pulau petualangan tematik 3D, narasi suara, dan musik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
